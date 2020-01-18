@@ -10,7 +10,7 @@ To start the server, use the following command:
 
 `$ python server.py`
 
-This will start an instance of the server at `localhost:8000`. From there, two client instances can be started in separate command line interfaces using the following command:
+This will start an instance of the server at `localhost:8000`. After this, two client instances can be started in separate command line interfaces using the following command:
 
 `$ python client.py`
 
